@@ -25,6 +25,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing ca
    JWT_SECRET=your_jwt_secret
    EMAIL_USER=your_email@example.com
    EMAIL_PASS=your_email_password
+4. Run the project
+   ```bash
+   npm start
 
 ### Frontend Setup
 
@@ -34,3 +37,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing ca
 2. Install Dependencies
    ```bash
    npm install
+3. Run the project
+   ```bash
+   npm run dev
